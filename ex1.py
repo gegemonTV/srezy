@@ -1,0 +1,11 @@
+x = input()
+
+print(x[2])
+print(x[-2])
+print(x[:5])
+print(x[:-2])
+print(x[::2])
+print(x[1::2])
+print(x[-1:0:-1])
+print(x[::-2])
+print(len(x))
